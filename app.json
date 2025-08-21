@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "plebeya-classifieds",
-    "slug": "plebeya-classifieds",
+    "name": "classifieds",
+    "slug": "plebeya.classifieds",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,7 +15,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "plebeya-classifieds",
+      "bundleIdentifier": "plebeya.classifieds",
       "infoPlist": {
         "NSPhotoLibraryUsageDescription": "Allow $(PRODUCT_NAME) to access your photos",
         "NSCameraUsageDescription": "Allow $(PRODUCT_NAME) to access your camera",
