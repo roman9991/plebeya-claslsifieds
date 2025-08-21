@@ -27,7 +27,7 @@ function RootLayoutNav() {
         name="create-listing" 
         options={{ 
           title: "Create Listing",
-          presentation: "modal"
+          presentation: "transparentmodal"
         }} 
       />
     </Stack>
