@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Classifieds",
-    "slug": "plebeya.classifieds",
+    "name": "classifieds",
+    "slug": "plebeya-classifieds",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
